@@ -24,12 +24,8 @@ def char(file_contents):
     print("--- End report ---")
 
 
-
 def sort_on(char_dict):
     return char_dict["count"]
-
-
-
 
 
 def main():
